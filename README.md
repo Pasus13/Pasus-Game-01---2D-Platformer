@@ -58,7 +58,7 @@ You can play the game directly in your browser:
 Alternatively, you can download the repo and open it in Unity:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USER/2D-Platformer-Pasus.git
+   git clone https://github.com/Pasus13/Pasus-Game-01---2D-Platformer.git
 2. Open the project in Unity (same version used to develop the game).
 3. Open the Main Menu scene.
 4. Press Play.
